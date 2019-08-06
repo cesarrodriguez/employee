@@ -1,3 +1,5 @@
 .settings
 .project
 .DS_Store
+target
+/employee-front/dist/*
